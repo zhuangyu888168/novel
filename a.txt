@@ -1,0 +1,44 @@
+array (
+  'paysapi_id' => '1fce1f865123e78586b5e3e3',
+  'orderid' => '118172018072210343254807',
+  'price' => '8',
+  'realprice' => '8.02',
+  'orderuid' => '11817',
+  'key' => 'ad98abde91c0df65f679a3565e567e91',
+)
+ad98abde91c0df65f679a3565e567e91
+ad98abde91c0df65f679a3565e567e91
+array (
+  'id' => '1015',
+  'type' => '1',
+  'sn' => '118172018072210343254807',
+  'mid' => NULL,
+  'user_id' => '11817',
+  'money' => '8.00',
+  'dmoney' => '0.00',
+  'smoney' => '0.00',
+  'isvip' => '0',
+  'create_time' => '1532270072',
+  'paysn' => NULL,
+  'remark' => NULL,
+  'pay_time' => NULL,
+  'status' => '1',
+  'chapid' => '0',
+  'is_status' => '1',
+)
+UPDATE `vv_user` SET `money`=money+800 WHERE `id` = 11817代理介绍array (
+  0 => 
+  array (
+    'title' => '一夜孽情',
+    'description' => '121212',
+    'picurl' => 'http://manhua666.ruiqi88.com/Public/upload/images/1807/13/121743085238002709.jpg',
+    'url' => 'http://manhua666.ruiqi88.com/index.php?m=&c=Article&a=read&id=9',
+  ),
+  1 => 
+  array (
+    'title' => '代理介绍',
+    'description' => '',
+    'picurl' => 'http://manhua666.ruiqi88.com/Public/upload/images/1807/13/121656554284001916.png',
+    'url' => 'http://manhua666.ruiqi88.com/index.php?m=&c=Article&a=read&id=8',
+  ),
+)
